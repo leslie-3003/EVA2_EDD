@@ -20,9 +20,10 @@ public class EVA2_15_ARRAYLIST {
         ArrayList<Integer> miArrayList = new ArrayList<Integer>();
         miArrayList.add(100);
         miArrayList.add(200);
-        miArrayList.add(300);
+        miArrayList.add(900);
         miArrayList.add(400);
         miArrayList.add(500);
+        
     }
     
 }
